@@ -8,4 +8,4 @@ To know about the release of new updates go to my discord server: https://discor
 4. To know about the release of new updates go to my discord server: https://discord.gg/rN4czz9
 5. have fun with the new theme :3
 # Preview
-![alt text](https://i.imgur.com/d7Hm2fM.png)
+![alt text](https://i.imgur.com/jYQG0bB.png)
