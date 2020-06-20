@@ -1,5 +1,3 @@
-//META{:"2.8.4 beta"}*//{}
-
 [role="img"][aria-label]:before {
     content: "";
     position: absolute;
