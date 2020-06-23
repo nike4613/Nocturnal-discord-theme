@@ -2635,12 +2635,12 @@ svg[name=Nitro] g path {
 	background-color: var(--backgroundDark);
 }
 
-.button-3WOKuZ {
+.button-3WOKuZ,.participantsButton-KYW-IW {
 	border-radius: 8px;
 	background-color: rgba(0,0,0,.45);
 }
 
-.button-3WOKuZ:hover,.theme-dark .footer-2gL1pp {
+.button-3WOKuZ:hover,.theme-dark .footer-2gL1pp,.participantsButton-KYW-IW:hover {
 	background-color: rgba(0,0,0,.15);
 }
 
