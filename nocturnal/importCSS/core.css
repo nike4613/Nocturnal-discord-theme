@@ -2644,6 +2644,14 @@ svg[name=Nitro] g path {
 	background-color: rgba(0,0,0,.15);
 }
 
+.cta-2DQ2ez {
+	background-color: #0b0d11;
+}
+
+.content-2Sfaij:hover .cta-2DQ2ez {
+	background-color: #11141a;
+}
+
 .collapseButton-2ZsEjz {
 	left:-1px;
 }
