@@ -2678,6 +2678,11 @@ svg[name=Nitro] g path {
 	border-color: rgba(0,0,0,0);
 }
 
+.hasMoreButton-1MELpI {
+	background-color: Rgba(0,0,0,0);
+	border: none;
+}
+
 .bd-switch-checked {
 	background-color: var(--primary)!important;
 }
