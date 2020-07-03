@@ -2644,11 +2644,11 @@ svg[name=Nitro] g path {
 	background-color: rgba(0,0,0,.15);
 }
 
-.cta-2DQ2ez {
+.cta-2DQ2ez,.button-3HqqDX {
 	background-color: #0b0d11;
 }
 
-.content-2Sfaij:hover .cta-2DQ2ez {
+.content-2Sfaij:hover .cta-2DQ2ez,.button-3HqqDX:hover {
 	background-color: #11141a;
 }
 
