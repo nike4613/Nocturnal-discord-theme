@@ -2907,7 +2907,7 @@ svg[name=Nitro] g path {
 	background-color: var(--primary);
 }
 
-.card-2Mz_4z {
+.card-2Mz_4z,.theme-dark .scroller-1-nKid {
 	border: none;
 	background-color: rgba(0,0,0,0);
 }
@@ -2922,4 +2922,8 @@ svg[name=Nitro] g path {
 
 .selectorButton-EEUWed:not(.selectorButtonPremiumRequired-mKMbIu):hover {
 	background-color: #0076c5;
+}
+
+.reactionDefault-GBA58K, .reactionSelected-1pqISm {
+	border-radius: 5px 0 0 5px;
 }
