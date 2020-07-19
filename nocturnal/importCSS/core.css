@@ -2948,10 +2948,18 @@ svg[name=Nitro] g path {
 	border-radius: 5px;
 }
 
-.textarea-2r0oV8:focus {
+.textarea-2r0oV8:focus,.container-2Uhd6d,.emojiContainer-1u-_sQ {
 	background-color: var(--backgroundDarker);
 }
 
 .search-2oPWTC .DraftEditor-root .public-DraftStyleDefault-block,.search-2oPWTC .DraftEditor-root .public-DraftEditorPlaceholder-root {
 	padding-top: 1px;
+}
+
+.embedSpotify-tvxDCr {
+	border-radius: 7px;
+}
+
+.userInfoSection-2acyCx {
+	padding: 10px 0;
 }
