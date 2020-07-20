@@ -1,5 +1,5 @@
 # Nocturnal v2.0 discord theme
-![alt text](https://reactiongifs.me/wp-content/uploads/2020/07/Classy-Applause.gif)
+![alt text](https://media.tenor.com/images/d6105bc83cd10869da81532722363ee0/tenor.gif)
 
 <img src="https://media.giphy.com/media/QuVct1GCQdD62tKkgh/giphy.gif" width="1012" height="337" />
 
