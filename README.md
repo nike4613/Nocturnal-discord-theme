@@ -1,5 +1,5 @@
 # Nocturnal v2.0 discord theme
-![alt text](https://s7.gifyu.com/images/Nocturnal.gif)<img src="https://s7.gifyu.com/images/Nocturnal.gif" width="1012" height="337" />
+![alt text](https://s7.gifyu.com/images/Nocturnal.gif)
 To know about the release of new updates go to [my discord server](https://discord.gg/rN4czz9)
 # Installation
 1. Install [BetterDiscord](https://betterdiscord.net/)
