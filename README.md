@@ -1,5 +1,5 @@
 # Nocturnal v2.0 discord theme
-![alt text](https://media.tenor.com/images/d6105bc83cd10869da81532722363ee0/tenor.gif)
+![alt text](https://media1.tenor.com/images/98d4f15453778d94c772f17362a40bb6/tenor.gif?itemid=17858662)
 
 <img src="https://media.giphy.com/media/QuVct1GCQdD62tKkgh/giphy.gif" width="1012" height="337" />
 
