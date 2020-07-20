@@ -10,4 +10,4 @@ To know about the release of new updates go to [my discord server](https://disco
 # Preview
 ![alt text](https://i.imgur.com/jYQG0bB.png)
 
-![Farmers Market Finder Demo](https://cdn.discordapp.com/attachments/722442128113926215/734893340893511831/Nocturnal.gif)
+![Farmers Market Finder Demo](https://i.imgur.com/LMdg0cF.mp4)
