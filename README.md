@@ -1,5 +1,5 @@
 # Nocturnal v2.0 discord theme
-![alt text](https://i.imgur.com/87MdYHb.gif)
+![alt text](https://i.imgur.com/87MdYHb.mp4.gif)
 <img src="https://media.giphy.com/media/QuVct1GCQdD62tKkgh/giphy.gif" width="1012" height="337" />
 
 To know about the release of new updates go to [my discord server](https://discord.gg/rN4czz9)
