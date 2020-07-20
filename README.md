@@ -1,8 +1,5 @@
 # Nocturnal v2.0 discord theme
-![alt text](https://media1.tenor.com/images/98d4f15453778d94c772f17362a40bb6/tenor.gif?itemid=17858662)
-
-<img src="https://media1.tenor.com/images/98d4f15453778d94c772f17362a40bb6/tenor.gif?itemid=17858662" width="1012" height="337" />
-
+![alt text](https://i.imgur.com/T9Dni1Y.png)
 To know about the release of new updates go to [my discord server](https://discord.gg/rN4czz9)
 # Installation
 1. Install [BetterDiscord](https://betterdiscord.net/)
