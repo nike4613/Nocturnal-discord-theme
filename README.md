@@ -9,5 +9,3 @@ To know about the release of new updates go to [my discord server](https://disco
 5. have fun with the new theme :3
 # Preview
 ![alt text](https://i.imgur.com/jYQG0bB.png)
-
-![](https://i.imgur.com/LMdg0cF.mp4)
