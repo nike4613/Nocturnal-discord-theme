@@ -2972,3 +2972,12 @@ svg[name=Nitro] g path {
 .row-rrHHJU.selected-1pIgLL .rowInner-1vvRiF {
 	background-color: rgba(0,0,0,0);
 }
+
+.optionActive-KkAdqq, .optionFocused-8MflSE {
+	background-color: rgba(0,0,0,.3);
+	color: #fff;
+}
+
+.optionNormal-12VR9V:hover {
+	background-color: rgba(0,0,0,.6);
+}
