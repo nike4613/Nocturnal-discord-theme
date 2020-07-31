@@ -637,9 +637,10 @@
 }
 
 .jumpToPresentBar-9P20AM button:last-child {
-	background-color: rgba(0,0,0,.5);
+	background-color: #0e1015;
 	border-radius: 6px 6px 0 0;
-	margin-right: 20px
+	margin-right: 20px;
+	margin-bottom: -33px;
 }
 
 .discriminator-xUhQkU,.headerName-fajvi9,.headerTag-2pZJzA,.headerTagUsernameNoNickname-2_H881,.nameTag-2IFDfL {
@@ -1172,7 +1173,7 @@ svg[name=Nova_Discord] * {
 }
 
 .chat-3bRxxu form {
-	margin: 4px 2px;
+	margin: 9px 2px;
 }
 
 .form-2fGMdU {
@@ -2212,7 +2213,7 @@ svg[name=Nitro] g path {
 
 .channelTextArea-rNsIhG {
 	padding-top: 0;
-	margin: 5px 0;
+	margin: 0;
 	border: none!important;
 	background-color: rgba(0, 0, 0, 0);
 }
@@ -2667,11 +2668,11 @@ svg[name=Nitro] g path {
 	left:-1px;
 }
 
-.colorWhite-rEQuAQ,.listeningActionsActivityFeed-3IMH0t .buttonSize-2Pmk-w:not(:first-child), .listeningActionsProfile-1fYwru .buttonSize-2Pmk-w:not(:first-child), .listeningActionsUserPopout-Ga2V_N .buttonSize-2Pmk-w:not(:first-child) {
+.iconButton-2K0woq,.colorWhite-rEQuAQ,.listeningActionsActivityFeed-3IMH0t .buttonSize-2Pmk-w:not(:first-child), .listeningActionsProfile-1fYwru .buttonSize-2Pmk-w:not(:first-child), .listeningActionsUserPopout-Ga2V_N .buttonSize-2Pmk-w:not(:first-child) {
 	margin-left: 0px;
 }
 
-.buttonSize-2Pmk-w,.colorWhite-rEQuAQ {
+.buttonSize-2Pmk-w,.colorWhite-rEQuAQ,.iconButton-2K0woq {
 	border-radius: 0;
 	border-width: 1px 0;
 }
@@ -2914,7 +2915,7 @@ svg[name=Nitro] g path {
 	background-color: var(--primary);
 }
 
-.card-2Mz_4z,.theme-dark .scroller-1-nKid {
+.card-2Mz_4z,.theme-dark .scroller-1-nKid,.emptyChannelIcon-cc932w {
 	border: none;
 	background-color: rgba(0,0,0,0);
 }
@@ -2984,4 +2985,21 @@ svg[name=Nitro] g path {
 
 .optionNormal-12VR9V:hover {
 	background-color: rgba(0,0,0,.6);
+}
+
+.theme-dark .path-92Hmty {
+	stroke: #008ae6;
+}
+
+.theme-dark .path2-1q7bG_ {
+	stroke: #0071bd;
+}
+
+.theme-dark .path3-2l9TIX {
+	stroke: #004472;
+}
+
+.iconWrapper-lS1uig {
+	border-radius: 5px;
+	background-color: rgba(0,0,0,0);
 }
