@@ -2071,7 +2071,7 @@ svg[name=Nitro] g path {
 	background: rgba(0,0,0,.25)!important
 }
 
-.autocompleteArrow-Zxoy9H,.autocompleteHeaderBackground-30T70q,.overflowRolesPopout-140n9i,.overflowRolesPopoutArrow-2O66oH {
+.autocompleteHeaderBackground-30T70q,.overflowRolesPopout-140n9i,.overflowRolesPopoutArrow-2O66oH {
 	background-color: var(--backgroundDarker)!important;
 	box-shadow: inset 0 0 0 100000px rgba(0,0,0,.55)!important
 }
@@ -2952,7 +2952,7 @@ svg[name=Nitro] g path {
 	border-radius: 5px;
 }
 
-.textarea-2r0oV8:focus,.container-2Uhd6d,.emojiContainer-1u-_sQ {
+.textarea-2r0oV8:focus,.container-2Uhd6d,.emojiContainer-1u-_sQ,.featureCard-1RR4Tl,.guildDetails-2p1NmK,.card-3RzMcx {
 	background-color: var(--backgroundDarker);
 }
 
@@ -3002,4 +3002,8 @@ svg[name=Nitro] g path {
 .iconWrapper-lS1uig {
 	border-radius: 5px;
 	background-color: rgba(0,0,0,0);
+}
+
+.featureIcon-3p1TC_ {
+	background-color: var(--backgroundDark);
 }
