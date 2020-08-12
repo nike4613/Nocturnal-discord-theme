@@ -3007,3 +3007,7 @@ svg[name=Nitro] g path {
 .featureIcon-3p1TC_ {
 	background-color: var(--backgroundDark);
 }
+
+.theme-dark .headerDefault-1wrJcN {
+	background-color: rgb(18, 21, 27);
+}
