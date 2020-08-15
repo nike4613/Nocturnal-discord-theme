@@ -3015,3 +3015,11 @@ svg[name=Nitro] g path {
 .pageButtonNext-V2kUq0,.pageButtonPrev-1Y-47D,.pageIndicator-1gAbyA {
 	border: none;
 }
+
+.container-3JTnYm {
+	padding-right: 16px!important;
+}
+
+.listeningActionsVoiceChannel-1edvLq .buttonSize-2Pmk-w:not(:first-child) {
+	margin-left: 0;
+}
