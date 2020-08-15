@@ -2952,7 +2952,7 @@ svg[name=Nitro] g path {
 	border-radius: 5px;
 }
 
-.textarea-2r0oV8:focus,.container-2Uhd6d,.emojiContainer-1u-_sQ,.featureCard-1RR4Tl,.guildDetails-2p1NmK,.card-3RzMcx {
+.textarea-2r0oV8:focus,.container-2Uhd6d,.emojiContainer-1u-_sQ,.featureCard-1RR4Tl,.guildDetails-2p1NmK,.card-3RzMcx,.container-3JTnYm,.theme-dark .iconMask-3b8GzQ {
 	background-color: var(--backgroundDarker);
 }
 
@@ -3004,10 +3004,14 @@ svg[name=Nitro] g path {
 	background-color: rgba(0,0,0,0);
 }
 
-.featureIcon-3p1TC_ {
+.featureIcon-3p1TC_,.wrapper-3vR61M,.wrapper-1F5TKx,.container-16j22k {
 	background-color: var(--backgroundDark);
 }
 
 .theme-dark .headerDefault-1wrJcN {
 	background-color: rgb(18, 21, 27);
+}
+
+.pageButtonNext-V2kUq0,.pageButtonPrev-1Y-47D,.pageIndicator-1gAbyA {
+	border: none;
 }
