@@ -3024,3 +3024,7 @@ svg[name=Nitro] g path {
 .listeningActionsVoiceChannel-1edvLq .buttonSize-2Pmk-w:not(:first-child) {
 	margin-left: 0;
 }
+
+.clickable-1JJAn8:hover .layout-2DM8Md {
+	background-color: rgba(0, 0, 0, 0);
+}
