@@ -1495,11 +1495,11 @@ svg[name=Nova_Discord] * {
 	max-width: 100%
 }
 
-.themeClear-1EjkE4.valueChecked-m-4IJZ,.themeDefault-24hCdX.sizeDefault-2YlOZr {
+.themeClear-1EjkE4.valueChecked-m-4IJZ {
 	background-color: rgba(0,0,0,.5)!important
 }
 
-#bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch.checked,.barFill-23-gu-,.cardPrimaryEditable-3KtE4g[style*="rgb(114, 137, 218)"],.option-n0icdO:hover,.selected-mKYnfr.option-n0icdO,.themeDefault-24hCdX.valueChecked-m-4IJZ {
+#bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch.checked,.barFill-23-gu-,.cardPrimaryEditable-3KtE4g[style*="rgb(114, 137, 218)"],.option-n0icdO:hover,.selected-mKYnfr.option-n0icdO {
 	background-color: var(--primary)!important
 }
 
@@ -2695,21 +2695,6 @@ svg[name=Nitro] g path {
 	border: none;
 }
 
-.bd-switch-checked {
-	background-color: var(--primary)!important;
-}
-
-.bd-switch {
-	background-color: rgba(0,0,0,.5);
-}
-
-.bd-search-wrapper,.detailsBlock-FoDTGA {
-	background-color: var(--backgroundDark)!important;
-	box-shadow: inset 0 0 100000px rgba(0,0,0,.5);
-	border: 1px solid rgba(0,0,0,.25)!important;
-	border-radius: 5px;
-}
-
 .members-1998pB, .members-1998pB>div {
 	background-color: var(--backgroundDark);
 }
@@ -2722,6 +2707,13 @@ svg[name=Nitro] g path {
 	background-color: var(--backgroundDark)!important;
 	box-shadow: inset 0 0 100000px rgba(0,0,0,.5);
 	border-radius: 50px;
+}
+
+.bd-search-wrapper {
+	background-color: var(--backgroundDark)!important;
+    box-shadow: inset 0 0 100000px rgba(0,0,0,.5);
+    border: 1px solid rgba(0,0,0,.25)!important;
+    border-radius: 5px;
 }
 
 .search-2oPWTC .searchBar-3dMhjb {
@@ -2898,6 +2890,12 @@ svg[name=Nitro] g path {
 	border-radius: 6px!important;
 	color: #fff!important
 }
+.buttonInvertedPurple-WtBglX {
+	background-color: rgba(0,0,0,.5);
+	border: 1.5px solid #593695;
+	border-radius: 6px!important;
+	color: #fff!important
+}
 
 .lookFilled-1Gx00P.colorGreen-29iAKY:hover {
 	color: #fff!important;
@@ -2913,6 +2911,11 @@ svg[name=Nitro] g path {
 	color: #fff!important;
 	border: 1.5px solid transparent;
 	background-color: var(--primary);
+}
+.buttonInvertedPurple-WtBglX:hover {
+	color: #fff!important;
+	border: 1.5px solid transparent;
+	background-color: #593695;
 }
 
 .card-2Mz_4z,.theme-dark .scroller-1-nKid,.emptyChannelIcon-cc932w {
@@ -3031,4 +3034,89 @@ svg[name=Nitro] g path {
 
 .reactor-3UBcOI {
 	margin-right: 10px;
+}
+
+.sizeMedium-1AC_Sl {
+	width: auto;
+    height: 32px;
+    min-width: 60px;
+    min-height: 32px;
+}
+
+.topSectionStreaming-1Tpf5X,.headerStreaming-2FjmGz {
+	z-index: 1;
+	box-shadow: 0 2px 10px 0 rgba(0,0,0,.2), 0 0 0 1px rgba(32,34,37,.6);
+	background: url(https://i.imgur.com/g0ZYTxZ.png),linear-gradient(to top right,#7255e7,#1c134c)
+}
+
+.messagesErrorBar-nyJGU7 {
+	bottom: -8px;
+	padding-bottom: 0px;
+}
+
+.messagesErrorBar-nyJGU7:active {
+	margin-bottom: 0;
+}
+
+.memberGroupsPlaceholder-3mwPub, .placeholderAvatar-damqh6, .placeholderUsername-2B_OA9, .avatar-2daVqv, .blob-2w7iIK, .attachment-2p5mHK {
+	border-radius: 5px;
+}
+
+.animatedContainer-1pJv5C {
+	background-color: var(--backgroundDark);
+	box-shadow: none;
+}
+
+/*TEST AREA*/
+.bd-switch::after,.themeDefault-24hCdX::after {
+    content: "";
+    display: block;
+    position: absolute;
+    background-color: #e8e9ed;
+    z-index: 1;
+    width: 20px;
+    margin: 2px;
+    border-radius: 50px;
+    height: 20px;
+    left: 0;
+    transition: transform .15s ease-in-out,width .1s ease-in-out,left .1s ease-in-out;
+}
+
+.bd-switch,.themeDefault-24hCdX {
+    background-color: #434257;
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.4)!important;
+}
+
+.bd-switch-checked,.themeDefault-24hCdX.valueChecked-m-4IJZ {
+    background-color: var(--primary)!important;
+}
+
+.bd-switch:last-child::before,.themeDefault-24hCdX:last-child::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    right: 6px;
+    left: 26px;
+    width: 10px;
+    height: 10px;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/162656/uncheck-switcher.svg);
+    background-size: 10px 10px;
+    opacity: 100;
+}
+
+.bd-switch-checked:last-child::before,.themeDefault-24hCdX.valueChecked-m-4IJZ:last-child::before {
+    content: "";
+    position: absolute;
+    width: 11px;
+    height: 11px;
+    left: 6px;
+    background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/162656/checkmark-switcher.svg);
+    background-size: 11px 11px;
+}
+
+.valueChecked-m-4IJZ.sizeDefault-2YlOZr:active:after,.themeDefault-24hCdX.sizeDefault-2YlOZr:active:after {
+    width: 20px;
+    left: 0px;
 }
