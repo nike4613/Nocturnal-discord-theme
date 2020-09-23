@@ -2860,6 +2860,7 @@ svg[name=Nitro] g path {
 
 .content-1LAB8Z {
 	padding-right: 10px!important;
+	border-radius: 0 0 5px 5px;
 }
 
 .status-254fhp {
@@ -3207,7 +3208,7 @@ svg[name=Nitro] g path {
 	background-color: rgba(0, 0, 0, 0);
 }
 
-.hasDivider-20M1le,.divider-3573oO,.separator-gCa7yv,.marketingRefreshSectionTier1-dRwS-6,.featureBorder-7j4v58,.leaveActionWrapper-34XGz6,.guildsSection-3AvK09,.activity-34iveE+.activity-34iveE {
+.hasDivider-20M1le,.divider-3573oO,.separator-gCa7yv,.marketingRefreshSectionTier1-dRwS-6,.featureBorder-7j4v58,.leaveActionWrapper-34XGz6,.guildsSection-3AvK09,.activity-34iveE+.activity-34iveE,.separator-2I32lJ {
 	border-color: var(--backgroundDarker)
 }
 
