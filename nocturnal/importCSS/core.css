@@ -1143,7 +1143,8 @@ svg[name=Nova_Discord] * {
 
 ::-webkit-scrollbar-track {
 	border: none!important;
-	background: var(--backgroundDark)!important
+	border-radius: 5px;
+	background: rgba(0,0,0,0)!important
 }
 
 ::-webkit-scrollbar-track-piece {
@@ -2512,7 +2513,7 @@ svg[name=Nitro] g path {
 }
 
 .scroller-3BxosC {
-	padding-right: 8px!important;
+	padding-right: 2px!important;
 }
 
 .css-1b86x2o-control,.css-1o55ng5-control,.css-9wh895-control,.theme-dark .friendSelected-1sa4bG,.icon-1Itzco,.tutorialIcon-3f1miQ {
@@ -2726,12 +2727,8 @@ svg[name=Nitro] g path {
 	right: 4px;
 }
 
-::-webkit-scrollbar {
-	display: none;
-}
-
 .content-3at_AU {
-	margin-right: 8px;
+	margin-right: 2px;
 }
 
 .icon-WnO6o2 {
@@ -2798,8 +2795,12 @@ svg[name=Nitro] g path {
 }
 
 .messagesPopout-24nkyi {
-	padding-right: 8px!important;
+	padding-right: 2px!important;
 	padding-left: 8px;
+}
+
+.scroller-tlc3kG {
+	padding-right: 10px!important;
 }
 
 .size-30cdTn {
@@ -2858,7 +2859,7 @@ svg[name=Nitro] g path {
 }
 
 .content-1LAB8Z {
-	padding-right: 16px!important;
+	padding-right: 10px!important;
 }
 
 .status-254fhp {
@@ -2870,7 +2871,7 @@ svg[name=Nitro] g path {
 }
 
 .infoScroller-3EYYns {
-	padding: 0 10px!important;
+	padding: 0 4px 0 10px!important;
 }
 
 .lookFilled-1Gx00P.colorGreen-29iAKY,.lookFilled-1Gx00P.colorGreen-29iAKY:disabled {
@@ -2963,7 +2964,7 @@ svg[name=Nitro] g path {
 	border-radius: 5px;
 }
 
-.textarea-2r0oV8:focus,.container-2Uhd6d,.emojiContainer-1u-_sQ,.featureCard-1RR4Tl,.guildDetails-2p1NmK,.card-3RzMcx,.container-3JTnYm,.theme-dark .iconMask-3b8GzQ,.tile-2naSqK {
+.textarea-2r0oV8:focus,.container-2Uhd6d,.emojiContainer-1u-_sQ,.featureCard-1RR4Tl,.guildDetails-2p1NmK,.card-3RzMcx,.theme-dark .iconMask-3b8GzQ,.tile-2naSqK {
 	background-color: var(--backgroundDarker);
 }
 
@@ -3015,7 +3016,7 @@ svg[name=Nitro] g path {
 	background-color: rgba(0,0,0,0);
 }
 
-.featureIcon-3p1TC_,.wrapper-3vR61M,.wrapper-1F5TKx,.container-16j22k {
+.featureIcon-3p1TC_,.wrapper-3vR61M,.wrapper-1F5TKx,.container-16j22k,.container-3JTnYm {
 	background-color: var(--backgroundDark);
 }
 
@@ -3028,7 +3029,7 @@ svg[name=Nitro] g path {
 }
 
 .container-3JTnYm {
-	padding-right: 16px!important;
+	padding-right: 10px!important;
 	margin-left: 8px;
 }
 
@@ -3194,5 +3195,58 @@ svg[name=Nitro] g path {
 }
 
 .emojiSection-3Fb9ix,.container-ZRw2kD {
+	background-color: var(--backgroundDarker);
+}
+
+.theme-dark .partyMemberEmpty-2iyh5g,.theme-dark .moreUsers-1sZP3U {
+	background-color: #0e1015;
+	border-radius: 5px;
+}
+
+.banner-WELp4M {
+	background-color: rgba(0, 0, 0, 0);
+}
+
+.hasDivider-20M1le,.divider-3573oO,.separator-gCa7yv,.marketingRefreshSectionTier1-dRwS-6,.featureBorder-7j4v58,.leaveActionWrapper-34XGz6,.guildsSection-3AvK09,.activity-34iveE+.activity-34iveE {
+	border-color: var(--backgroundDarker)
+}
+
+.separator-gCa7yv,.theme-dark #bd-settings-sidebar .ui-tab-bar-separator {
+	background-color: rgb(0,0,0,.35);
+}
+
+.theme-dark .game-1ipmAa {
+	-webkit-box-shadow: 0 1px 0 0 var(--backgroundDarker);
+    box-shadow: 0 1px 0 0 var(--backgroundDarker);
+}
+
+.theme-light .footer-2gL1pp {
+	-webkit-box-shadow: inset 0 1px 0 rgba(47,49,54,.6);
+    box-shadow: inset 0 1px 0 rgba(47,49,54,.6);
+}
+
+.listRow-hutiT_ {
+	margin: 1px 0 1px 6px;
+}
+
+.container-3JTnYm {
+	-webkit-box-shadow: 0 8px 16px rgba(0,0,0,.24);
+    box-shadow: 0 8px 16px rgba(0,0,0,.24);
+}
+
+.base-gE7OpD {
+	left: 8px;
+	bottom: 43px;
+}
+
+.theme-dark .activityInviteEducationArrow-3DEpKU {
+	transform: scale(1, -1);
+}
+
+.guildSection-1EoFKd {
+	background-color: rgb(18, 21, 27);
+}
+
+.guildSeparator-3s64Iy {
 	background-color: var(--backgroundDarker);
 }
