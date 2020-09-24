@@ -1981,7 +1981,7 @@ svg[name=Nitro] g path {
 	background: radial-gradient(ellipse at top,rgba(54,57,63,0),var(--backgroundDark)),linear-gradient(90deg,var(--backgroundDark) 0,rgba(54,57,63,0) 40%,rgba(54,57,63,0) 60%,var(--backgroundDark)),linear-gradient(0deg,var(--backgroundDark) 0,rgba(54,57,63,0) 25%)!important
 }
 
-.modal-3HD5ck,.reactors-Blmlhw,.scrollerButton-1Vm5_P,.users-i_3-kL {
+.modal-3HD5ck,.reactors-Blmlhw,.scrollerButton-1Vm5_P {
 	background-color: var(--backgroundDark)!important
 }
 
@@ -3236,7 +3236,6 @@ svg[name=Nitro] g path {
 }
 
 .base-gE7OpD {
-	left: 8px;
 	bottom: 43px;
 }
 
@@ -3248,6 +3247,19 @@ svg[name=Nitro] g path {
 	background-color: rgb(18, 21, 27);
 }
 
-.guildSeparator-3s64Iy {
+.guildSeparator-3s64Iy,.searchResultsWrap-3-pOjs {
 	background-color: var(--backgroundDarker);
+}
+
+.item-1tOPte {
+	border-radius: 5px!important;
+}
+
+.users-i_3-kL {
+	background-color: rgba(0,0,0,.35);
+}
+
+.jumpToPresentBar-G1R9s6 {
+	margin-bottom: -8px;
+	padding-bottom: 0;
 }
