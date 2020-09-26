@@ -913,9 +913,13 @@ svg[name=Nova_Discord] * {
 	background-color: var(--backgroundDark)!important
 }
 
-.footer-1kmXd4,.header-ykumBX,.jumpButton-3DTcS_,.messageGroupWrapper-o-Zw7G {
+.footer-1kmXd4,.header-ykumBX,.messageGroupWrapper-o-Zw7G {
 	background-color: rgba(0,0,0,.15)!important;
 	margin: 0 0 16px 0;
+}
+
+.jumpButton-3DTcS_ {
+	background-color: rgba(0,0,0,.15)!important;
 }
 
 .messageGroupWrapper-o-Zw7G {
@@ -2965,7 +2969,7 @@ svg[name=Nitro] g path {
 	border-radius: 5px;
 }
 
-.textarea-2r0oV8:focus,.container-2Uhd6d,.emojiContainer-1u-_sQ,.featureCard-1RR4Tl,.guildDetails-2p1NmK,.card-3RzMcx,.theme-dark .iconMask-3b8GzQ,.tile-2naSqK {
+.textarea-2r0oV8:focus,.container-2Uhd6d,.emojiContainer-1u-_sQ,.featureCard-1RR4Tl,.guildDetails-2p1NmK,.card-3RzMcx,.theme-dark .iconMask-3b8GzQ,.tile-2naSqK,.theme-dark .feature-2w65J5 {
 	background-color: var(--backgroundDarker);
 }
 
@@ -3182,7 +3186,7 @@ svg[name=Nitro] g path {
 	border-radius: 4px;
 }
 
-.colorHeaderPrimary-26Jzh-,.colorStandard-2KCXvj {
+.colorHeaderPrimary-26Jzh-,.colorStandard-2KCXvj,.roleOverflow-1zjC9k {
 	color: #fff;
 }
 
@@ -3259,7 +3263,63 @@ svg[name=Nitro] g path {
 	background-color: rgba(0,0,0,.35);
 }
 
-.jumpToPresentBar-G1R9s6 {
+.jumpToPresentBar-G1R9s6,.jumpToPresentBar-G1R9s6:active {
 	margin-bottom: -8px;
 	padding-bottom: 0;
+}
+
+.container-UC8Ug1 {
+	background-color: var(--backgroundDark)!important;
+	box-shadow: inset 0 0 100000px rgba(0,0,0,.5);
+	border: none;
+}
+
+.container-UC8Ug1:hover {
+	background-color: var(--backgroundDarker)!important;
+	box-shadow: inset 0 0 100000px rgba(0,0,0,.5);
+	border: none;
+}
+
+.dragInner-_SHftW {
+	background-color: rgba(0,0,0,0);
+}
+
+.subscribeTooltipWrapper-32-Ce8 {
+	background-color: var(--backgroundDarker);
+}
+
+.subscribeTooltipWrapper-32-Ce8:after {
+	border-bottom-color: var(--backgroundDarker);
+}
+
+.notice-1tZwqv {
+	background-color: var(--primary);
+}
+
+.notice-3bPHh- {
+	border-radius: 0;
+}
+
+.container-3LUQwT {
+	background-color: var(--backgroundDark);
+}
+
+.role-3ulsK-:hover {
+	background-color: rgba(0,0,0,.2);
+}
+
+.button-3Ijpww:hover {
+	background-color: hsla(0,0%,100%,.1);
+}
+
+.lookOutlined-3sRXeN.colorWhite-rEQuAQ {
+	border-color: #c4c9ce;
+	-webkit-transition: border-color .17s ease;
+    transition: border-color .17s ease;
+}
+
+.lookOutlined-3sRXeN.colorWhite-rEQuAQ:hover {
+	border-color: #fff;
+	-webkit-transition: border-color .17s ease;
+    transition: border-color .17s ease;
 }
