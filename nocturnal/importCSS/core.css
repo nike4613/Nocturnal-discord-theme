@@ -3304,7 +3304,7 @@ svg[name=Nitro] g path {
 	background-color: var(--backgroundDark);
 }
 
-.role-3ulsK-:hover {
+.role-3ulsK-:hover,.theme-dark .selected-1Tbx07 {
 	background-color: rgba(0,0,0,.2);
 }
 
@@ -3322,4 +3322,12 @@ svg[name=Nitro] g path {
 	border-color: #fff;
 	-webkit-transition: border-color .17s ease;
     transition: border-color .17s ease;
+}
+
+.scroller-2TWLdF {
+	padding-right: 2px!important;
+}
+
+.base-1pYU8j {
+	border-radius: 5px;
 }
