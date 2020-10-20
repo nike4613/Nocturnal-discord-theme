@@ -918,7 +918,7 @@ svg[name=Nova_Discord] * {
 	margin: 0 0 16px 0;
 }
 
-.jumpButton-3DTcS_ {
+.jumpButton-3DTcS_,.jumpButton-JkYoYK {
 	background-color: rgba(0,0,0,.15)!important;
 }
 
@@ -3248,11 +3248,11 @@ svg[name=Nitro] g path {
 	transform: scale(1, -1);
 }
 
-.guildSection-1EoFKd {
+.guildSection-1EoFKd,.connectionHeader-2MDqhu {
 	background-color: rgb(18, 21, 27);
 }
 
-.guildSeparator-3s64Iy,.searchResultsWrap-3-pOjs {
+.guildSeparator-3s64Iy,.searchResultsWrap-3-pOjs,.accountList-33MS45,.connection-1fbD7X,.divider-3FBTu8 {
 	background-color: var(--backgroundDarker);
 }
 
@@ -3331,4 +3331,51 @@ svg[name=Nitro] g path {
 
 .base-1pYU8j {
 	border-radius: 5px;
+}
+
+.channelName-1JRO3C {
+	background: var(--backgroundDarker);
+}
+
+.searchResult-9tQ1uo:before {
+	background-image: none;
+}
+
+.searchResultMessage-1fxgXh.hit-1fVM9e {
+	-webkit-box-shadow: 0 0 10px 6px var(--backgroundDarker);
+    box-shadow: 0 0 10px 6px var(--backgroundDarker);
+    background-color: var(--backgroundDark);
+    border: 1px solid var(--backgroundDarker);
+}
+
+.searchResult-9tQ1uo:after {
+	background-image: none;
+}
+
+.expanded-w_LCGl .searchResultMessage-1fxgXh.hit-1fVM9e {
+	background-color: var(--backgroundDark);
+	border-color: var(--backgroundDarker);
+}
+
+.searchResult-9tQ1uo.expanded-w_LCGl {
+	background-color: var(--backgroundDarker);
+	border: 1.2px solid rgba(1,1,1,.25)
+}
+
+.button-14-BFJ.enabled-2cQ-u7:hover {
+	background-color: rgba(0,0,0,.25);
+}
+
+.theme-dark .installationPath-3cStrB {
+    -webkit-box-shadow: 0 1px 0 0 #101218;
+	box-shadow: 0 1.5px 0 0 #101218;
+}
+
+.peopleListItem-2nzedh {
+	border-top: 1px solid #101218;
+}
+
+.item-3eFBNF:hover {
+	background-color: rgba(0,0,0,.25);
+    border-radius: 5px;
 }
