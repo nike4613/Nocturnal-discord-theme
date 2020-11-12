@@ -1450,7 +1450,7 @@ svg[name=Nova_Discord] * {
 	background-color: rgba(0,0,0,.35)!important
 }
 
-#bd-settings-sidebar .ui-tab-bar-item::after,.side-8zPYf6 .item-PXvHYJ::after {
+#bd-settings-sidebar .ui-tab-bar-item::after,.side-8zPYf6 .item-PXvHYJ::after,.modeSelected-346R90 .content-1x5b-n::after,.content-1x5b-n::after {
 	content: "";
 	height: 2px;
 	width: 100%;
@@ -1939,7 +1939,7 @@ svg[name=Nitro] g path {
 	display: none
 }
 
-.content-3at_AU::after,.side-8zPYf6 .themed-OHr7kt.item-PXvHYJ::after,.wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU::after {
+.content-3at_AU::after,.side-8zPYf6 .themed-OHr7kt.item-PXvHYJ::after,.wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU::after,.modeSelected-346R90 .content-1x5b-n::after,.content-1x5b-n::after {
 	content: "";
 	height: 2px;
 	width: 100%;
@@ -1953,15 +1953,15 @@ svg[name=Nitro] g path {
 	transition: all .2s ease
 }
 
-.listDefault-2y5Z9D .clickable-23RaYz:hover .content-3xS9Lh,.side-8zPYf6 .themed-OHr7kt.item-PXvHYJ:hover,.wrapper-1ucjTd:hover .content-3at_AU {
+.listDefault-2y5Z9D .clickable-23RaYz:hover .content-3xS9Lh,.side-8zPYf6 .themed-OHr7kt.item-PXvHYJ:hover,.wrapper-1ucjTd:hover .content-3at_AU,.content-1x5b-n:hover,.listDefault-3ir5aS .clickable-1lCRLF:hover .content-1Wq3SX,.wrapper-2jXpOf:hover .content-1x5b-n {
 	background-color: rgba(0,0,0,.25)!important
 }
 
-.side-8zPYf6 .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ,.wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU {
+.side-8zPYf6 .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ,.wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU,.modeSelected-346R90 .content-1x5b-n,.content-1x5b-n::after,.listDefault-3ir5aS .clickable-1lCRLF.selected-3t3Csj .content-1Wq3SX {
 	background-color: rgba(0,0,0,.45)!important
 }
 
-.side-8zPYf6 .themed-OHr7kt.item-PXvHYJ:hover::after,.side-8zPYf6 .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ::after,.wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU::after,.wrapper-1ucjTd:hover .content-3at_AU::after {
+.side-8zPYf6 .themed-OHr7kt.item-PXvHYJ:hover::after,.side-8zPYf6 .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ::after,.wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU::after,.wrapper-1ucjTd:hover .content-3at_AU::after,.modeSelected-346R90 .content-1x5b-n::after,.wrapper-2jXpOf:hover .content-1x5b-n::after {
 	transform: translateX(0)
 }
 
@@ -3301,7 +3301,7 @@ svg[name=Nitro] g path {
 	border-radius: 0;
 }
 
-.container-3LUQwT {
+.container-3LUQwT,.container-3w7J-x {
 	background-color: var(--backgroundDark);
 }
 
@@ -3471,4 +3471,16 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 	100% {
 		background-position: 0% 50%;
 	}
+}
+
+.bodyInnerWrapper-Z8WDxe {
+	padding-right: 0;
+}
+
+.avatar-3tNQiO, .embedAuthorIcon--1zR3L {
+	border-radius: 5px;
+}
+
+.clickable-25tGDB .header-2V-4Sw:hover {
+	background-color:  rgba(0,0,0,0);
 }
