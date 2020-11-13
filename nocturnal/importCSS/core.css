@@ -3481,6 +3481,6 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 	border-radius: 5px;
 }
 
-.clickable-25tGDB .header-2V-4Sw:hover {
+.clickable-25tGDB .header-2V-4Sw:hover,.selected-31Nl7x .header-2V-4Sw {
 	background-color:  rgba(0,0,0,0);
 }
