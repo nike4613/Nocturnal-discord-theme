@@ -3022,7 +3022,7 @@ svg[name=Nitro] g path {
 	background-color: rgba(0,0,0,0);
 }
 
-.featureIcon-3p1TC_,.wrapper-3vR61M,.wrapper-1F5TKx,.container-16j22k,.container-3JTnYm {
+.featureIcon-3p1TC_,.wrapper-3vR61M,.wrapper-1F5TKx,.container-16j22k,.container-3JTnYm,.container-2dqNWc {
 	background-color: var(--backgroundDark);
 }
 
@@ -3389,7 +3389,7 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 	background-color: rgba(0, 0, 0, 0);
 }
 
-.theme-dark .tile-2OwFgW {
+.theme-dark .tile-2OwFgW,.viewAsRolesWarning-11eD70 {
 	background-color: var(--backgroundDarker);
 }
 
