@@ -3492,3 +3492,15 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 	margin-left: 10px;
 	color: rgba(0,0,0,0)
 }
+
+.users-3kndPl {
+	background-color: rgba(0,0,0,.35);
+}
+
+.total-i6us2n {
+	background-color: #0c0e12;
+}
+
+.total-i6us2n:after {
+	border-right-color: #0c0e12;
+}
