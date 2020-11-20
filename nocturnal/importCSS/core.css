@@ -3504,3 +3504,13 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 .total-i6us2n:after {
 	border-right-color: #0c0e12;
 }
+
+.cozy-3raOZG .repliedMessage-VokQwo:before {
+	--gutter: 12px;
+	margin-bottom: -6px;
+	margin-right: 0px;
+}
+
+.replyAvatar-1K9Wmr, .replyBadge-r1su3o {
+	border-radius: 5px;
+}
