@@ -2265,11 +2265,11 @@ svg[name=Nitro] g path {
 	text-shadow: 0px 0px 5px #000;
 }
 
-.mentioned-xhSam7:before {
+.mentioned-xhSam7:before,.replying-1x3H0T:before {
 	background-color: var(--primary)!important;
 }
 
-.mentioned-xhSam7 {
+.mentioned-xhSam7,.replying-1x3H0T {
 	border-top-right-radius: 5px;
 	border-bottom-right-radius: 5px;
 	background-color: rgba(0,176,244,.05);
@@ -3493,6 +3493,13 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 	color: rgba(0,0,0,0)
 }
 
+.mention {
+	background-color: rgba(0,0,0,.23)!important;
+    border-radius: 50px;
+    padding: .5px 5px;
+    transition: all .2s ease;
+}
+
 .users-3kndPl {
 	background-color: rgba(0,0,0,.35);
 }
@@ -3513,4 +3520,23 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 
 .replyAvatar-1K9Wmr, .replyBadge-r1su3o {
 	border-radius: 5px;
+}
+
+.container-3XJ8ns {
+	border: none;
+	background-color: var(--backgroundDark);
+	box-shadow: 0 8px 16px rgba(0,0,0,.24)
+}
+
+.item-2J2GlB:hover {
+	background-color: rgb(0,0,0,0.2);
+}
+
+.container-2fRDfG {
+	margin: 0 6px;
+	background: rgb(41, 48, 65);
+}
+
+.mentionButton-3710-W,.closeButton-37O8QC {
+	padding: 8px 12px;
 }
