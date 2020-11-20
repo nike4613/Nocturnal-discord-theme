@@ -2675,12 +2675,12 @@ svg[name=Nitro] g path {
 	margin-left: 0px;
 }
 
-.buttonSize-2Pmk-w,.colorWhite-rEQuAQ,.iconButton-2K0woq {
+.buttonSize-2Pmk-w,.colorWhite-rEQuAQ,.iconButton-2K0woq,.button-uXr0L2 {
 	border-radius: 0;
 	border-width: 1px 0;
 }
 
-.iconButtonSize-3s24uQ {
+.iconButtonSize-3s24uQ,.button-uXr0L2 {
 	border-radius: 0;
 }
 
@@ -3313,7 +3313,7 @@ svg[name=Nitro] g path {
 	background-color: hsla(0,0%,100%,.1);
 }
 
-.lookOutlined-3sRXeN.colorWhite-rEQuAQ {
+.lookOutlined-3sRXeN.colorWhite-rEQuAQ,.button-uXr0L2 {
 	border-color: #c4c9ce;
 	-webkit-transition: border-color .17s ease;
     transition: border-color .17s ease;
@@ -3539,4 +3539,28 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 
 .mentionButton-3710-W,.closeButton-37O8QC {
 	padding: 8px 12px;
+}
+
+.horizontal-3fI3M->:not(:first-child) {
+	margin-left: 0;
+}
+
+.radioBar-bMNUI- {
+	border-radius: 5px;
+}
+
+.item-26Dhrx {
+	background-color: var(--backgroundDarker);
+}
+
+.item-26Dhrx:hover {
+	background-color: rgba(0,0,0,.25);
+}
+
+.item-26Dhrx[aria-checked=true] {
+	background-color: rgb(15, 18, 24);
+}
+
+.guildIcon-3raYf3 {
+	border-radius: 15px;
 }
