@@ -2675,12 +2675,12 @@ svg[name=Nitro] g path {
 	margin-left: 0px;
 }
 
-.buttonSize-2Pmk-w,.colorWhite-rEQuAQ,.iconButton-2K0woq,.button-uXr0L2 {
+.buttonSize-2Pmk-w,.colorWhite-rEQuAQ,.iconButton-2K0woq,.button-uXr0L2,.lookOutlined-3sRXeN {
 	border-radius: 0;
 	border-width: 1px 0;
 }
 
-.iconButtonSize-3s24uQ,.button-uXr0L2 {
+.iconButtonSize-3s24uQ,.button-uXr0L2,.lookOutlined-3sRXeN {
 	border-radius: 0;
 }
 
@@ -3313,7 +3313,7 @@ svg[name=Nitro] g path {
 	background-color: hsla(0,0%,100%,.1);
 }
 
-.lookOutlined-3sRXeN.colorWhite-rEQuAQ,.button-uXr0L2 {
+.lookOutlined-3sRXeN.colorWhite-rEQuAQ,.button-uXr0L2,.lookOutlined-3sRXeN {
 	border-color: #c4c9ce;
 	-webkit-transition: border-color .17s ease;
     transition: border-color .17s ease;
@@ -3563,4 +3563,8 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 
 .guildIcon-3raYf3 {
 	border-radius: 15px;
+}
+
+.popoutContainer-1MXdqN {
+	background-color: var(--backgroundDarker);
 }
