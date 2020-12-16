@@ -470,7 +470,8 @@
 .root-1gCeng,
 .content-1o0f9g,
 .scrollableContainer-2NUZem,
-.popout-13LQ_3 {
+.popout-13LQ_3,
+.exampleModal-2X2Vf8 {
   background-color: var(--backgroundDark)!important;
   box-shadow: inset 0 0 100000px 0 rgba(0,0,0,.5)!important;
 }
@@ -2478,7 +2479,7 @@ svg[name=Nitro] g path {
 	background-color: rgb(20, 23, 31);
 }
 
-.value-IR9osW,.wrapper-2N7X54,.optionContainer-15srkc, .wrapper-2Gsate {
+.value-IR9osW,.wrapper-2N7X54,.optionContainer-15srkc, .wrapper-2Gsate,.optionContainer-1FtykV {
 	background-color: #12151c;
 }
 
@@ -2778,7 +2779,7 @@ svg[name=Nitro] g path {
 	background-color: rgb(0, 109, 182);
 }
 
-.item-3T2z1R {
+.item-3T2z1R,.group-1WdBVp {
 	border: none;
 }
 
@@ -2938,7 +2939,7 @@ svg[name=Nitro] g path {
 	background-color: rgba(0,0,0,0);
 }
 
-.item-3T2z1R {
+.item-3T2z1R,.item-1yAxl1 {
 	background: var(--backgroundDarker);
 }
 
@@ -3248,11 +3249,11 @@ svg[name=Nitro] g path {
 	transform: scale(1, -1);
 }
 
-.guildSection-1EoFKd,.connectionHeader-2MDqhu {
+.guildSection-1EoFKd,.upsellContainer-L9xv7w,.connectionHeader-2MDqhu,.developerPortalCtaWrapper-2XNafh,.checklistHeader-1KWcEY,.header-2Y0-A-,.enableContainer-6E-puu {
 	background-color: rgb(18, 21, 27);
 }
 
-.guildSeparator-3s64Iy,.searchResultsWrap-3-pOjs,.accountList-33MS45,.connection-1fbD7X,.divider-3FBTu8 {
+.guildSeparator-3s64Iy,.searchResultsWrap-3-pOjs,.accountList-33MS45,.connection-1fbD7X,.divider-3FBTu8,.upsellFooter-ZYsio_,.checklistContainer-mFJZEJ,.container-2w0lh0,.previewContainer-1SS3uO {
 	background-color: var(--backgroundDarker);
 }
 
@@ -3260,7 +3261,7 @@ svg[name=Nitro] g path {
 	border-radius: 5px!important;
 }
 
-.users-i_3-kL {
+.users-i_3-kL,.backgroundAccent-349kuI,.descriptionInput-3b30C8,.editCircle-ityklj {
 	background-color: rgba(0,0,0,.35);
 }
 
@@ -3301,7 +3302,7 @@ svg[name=Nitro] g path {
 	border-radius: 0;
 }
 
-.container-3LUQwT,.container-3w7J-x {
+.container-3LUQwT,.container-3w7J-x,.exampleContainer-25sB-A {
 	background-color: var(--backgroundDark);
 }
 
@@ -3481,7 +3482,7 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 	border-radius: 5px;
 }
 
-.clickable-25tGDB .header-2V-4Sw:hover,.selected-31Nl7x .header-2V-4Sw {
+.clickable-25tGDB .header-2V-4Sw:hover,.selected-31Nl7x .header-2V-4Sw,.iconWrapper-2JyIpA {
 	background-color:  rgba(0,0,0,0);
 }
 
@@ -3567,4 +3568,18 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 
 .popoutContainer-1MXdqN {
 	background-color: var(--backgroundDarker);
+}
+
+.assetsLargeMaskVoiceChannel-2k1oGM {
+	-webkit-mask: none;
+	mask: none;
+}
+
+.overflow-3zpvTV {
+	border-radius: 6px;
+	margin-left: 0px;
+}
+
+.card-3_CqkU {
+	background-color: var(--backgroundDark);
 }
