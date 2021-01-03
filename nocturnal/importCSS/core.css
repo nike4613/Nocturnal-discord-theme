@@ -3626,3 +3626,8 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 .detailsBlock-FoDTGA {
 	background-color: var(--backgroundDarker);
 }
+
+.lookFilled-1Gx00P.colorWhite-rEQuAQ:disabled {
+	background-color: rgba(0, 0, 0, 0);
+	color: white;
+}
