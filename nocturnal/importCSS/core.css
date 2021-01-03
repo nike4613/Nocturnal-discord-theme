@@ -2894,7 +2894,7 @@ svg[name=Nitro] g path {
 	backdrop-filter: blur(1px);
 	color: #fff!important
 }
-.lookInverted-2D7oAl.colorBrand-3pXr91 {
+.lookInverted-2D7oAl.colorBrand-3pXr91,.lookInverted-2D7oAl.colorBrand-3pXr91:disabled {
 	background-color: rgba(0,0,0,.5);
 	border: 1.5px solid var(--primary);
 	border-radius: 6px!important;
@@ -3621,4 +3621,8 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 
 .option-3KoAJB:hover {
 	background-color: rgba(0, 0, 0, 0.2);
+}
+
+.detailsBlock-FoDTGA {
+	background-color: var(--backgroundDarker);
 }
