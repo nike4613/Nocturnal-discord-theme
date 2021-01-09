@@ -418,7 +418,6 @@
   .platform-linux #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(20)::before{background:url(https://codedotspectra.github.io/themes/icons/linux.png) center}
   .platform-linux #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(21)::before{background:url(https://codedotspectra.github.io/themes/icons/twitch.png) center}
   .platform-linux #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(24)::before{background:url(https://codedotspectra.github.io/themes/icons/games.png) center}
-  .platform-linux #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(25)::before{background:url(https://codedotspectra.github.io/themes/icons/overlay.png) center}
   .platform-linux #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(27)::before{background:url(https://codedotspectra.github.io/themes/icons/changelog.png) center}
   .platform-linux #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(28)::before{background:url(https://codedotspectra.github.io/themes/icons/hype.png) center}
   .platform-linux #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(31)::before{background:url(https://codedotspectra.github.io/themes/icons/logout.png) center}
@@ -3631,4 +3630,20 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 .lookFilled-1Gx00P.colorWhite-rEQuAQ:disabled {
 	background-color: rgba(0, 0, 0, 0);
 	color: white;
+}
+
+.theme-dark .tooltipPrimary-1d1ph4, .theme-light .tooltipPrimary-1d1ph4,.searchResult-9tQ1uo {
+	background-color: var(--backgroundDark);
+}
+
+.searchHeader-2XoQg7 {
+	background-color: var(--backgroundDarker);
+}
+
+.theme-dark .tab-2j5AEF.selected-2LAck8,.tab-2j5AEF:hover,.button-11zvza,.pageButton-2ruNwd:hover {
+	background-color: rgba(0,0,0,0);
+}
+
+.theme-dark .activeButton-rvKcqq,.theme-dark .activeButton-rvKcqq:hover {
+	background-color: var(--primary);
 }
