@@ -3633,3 +3633,8 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 .theme-dark .activeButton-rvKcqq,.theme-dark .activeButton-rvKcqq:hover {
 	background-color: var(--primary);
 }
+
+.listItem-2P_4kh foreignObject {
+	mask: none;
+	border-radius: 50px;
+}
