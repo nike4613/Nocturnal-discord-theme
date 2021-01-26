@@ -8,4 +8,4 @@ For support and bug reports go to [my discord server](https://discord.gg/rN4czz9
 4. For support and bug reports go to [my discord server](https://discord.gg/rN4czz9)
 5. have fun with the new theme :3
 # Preview
-![alt text](https://i.imgur.com/jYQG0bB.png)
+![alt text](https://imgur.com/a/0qK9STK)
