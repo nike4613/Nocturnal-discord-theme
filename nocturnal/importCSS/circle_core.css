@@ -3647,6 +3647,14 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 	background-color: var(--backgroundDarker);
 }
 
-.theme-dark .checked-3_4uQ9 {
+.theme-dark .checked-3_4uQ9,.input--jS-j2 {
 	background-color: rgb(0,0,0,0);
+}
+
+.sampleLink-2NLvZg,.input-cIJ7To {
+	color: #fff;
+}
+
+.inputInner-2akrSS {
+	border: 1px solid var(--deprecated-text-input-border);
 }
