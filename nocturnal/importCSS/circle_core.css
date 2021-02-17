@@ -2098,6 +2098,7 @@ svg[name=Nitro] g path {
 
 .expandedFolderBackground-2sPsd- {
 	background-color: rgba(0,0,0,.35)!important;
+	border-radius: 12px;
 }
 
 .wrapper-1BJsBx[aria-label=Home],
