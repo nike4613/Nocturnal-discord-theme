@@ -525,7 +525,7 @@
 .avatar-21196O {border: 0px;}
 .input-1mgnkM, .input-UJ9Tr3 {color: white !important;}
 .content-MLh4nU { background-color: transparent !important;}
-.activeButton-1BJAiN, .theme-dark .activeButton-1BJAiN:hover, .theme-dark .pageButton-MknE-_:hover, .colorTransparent-1ewNp9 {background-color: rgba(0,0,0,.25) !important;}
+.activeButton-1BJAiN, .theme-dark .activeButton-1BJAiN:hover, .theme-dark .pageButton-MknE-_:hover {background-color: rgba(0,0,0,.25) !important;}
 .css-1ye7vu0 {background-color: var(--backgroundDark);}
 .css-5fjw8m-control {
   background-color: var(--backgroundDark)!important;
@@ -3641,7 +3641,7 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 	background-color: var(--primary);
 }
 
-.guildSidebar-2OCzWB {
+.guildSidebar-2OCzWB,.footer-3OAEzG {
 	background-color: var(--backgroundDark);
 }
 
@@ -3663,4 +3663,29 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 
 .subscribers-2AXB4_ .subscriberMask-1dpKjd {
 	margin-right: 2px;
+}
+
+.base-1x0h_U.muted-3-7c5L {
+	color: #fff;
+}
+
+.emojiCounter-1BHDd2 {
+	background-color: rgba(0,0,0,.35);
+	border-radius: 5px;
+}
+
+.role-1P70N6,.cardFolder-28dwxo {
+	background-color: var(--backgroundDarker);
+}
+
+.role-3UN8jj:hover,.settingCard-3w2mVL {
+	background-color: rgb(0,0,0,.35);
+}
+
+.settingCard-3w2mVL.active-1ytUzX {
+	background-color: rgb(18, 21, 27);
+}
+
+.content-3YMskv .divider-3573oO {
+	background-color: rgba(0,0,0,0)!important;
 }
