@@ -3689,3 +3689,7 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 .content-3YMskv .divider-3573oO {
 	background-color: rgba(0,0,0,0)!important;
 }
+
+.colorDark-1yVQpk {
+	background-color: var(--primary);
+}
