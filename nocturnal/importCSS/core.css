@@ -3699,3 +3699,10 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 	mask: none;
 	margin-left: 2px;
 }
+
+.overflow-1ExsZm {
+	border-radius: 5px;
+	margin-left: 2px;
+	background-color: rgba(0,0,0,.3);
+	box-shadow: none;
+}
