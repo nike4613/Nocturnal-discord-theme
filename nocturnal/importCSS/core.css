@@ -3707,7 +3707,6 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 	box-shadow: none;
 }
 
-.backdropWithLayer-3_uhz4 {
-	background-color: var(--backgroundDark)!important;
+.backdropWithLayer-3_uhz4,.backdrop-1wrmKB {
 	backdrop-filter: blur(10px);
 }
