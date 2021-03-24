@@ -3710,3 +3710,11 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 .backdropWithLayer-3_uhz4,.backdrop-1wrmKB {
 	backdrop-filter: blur(10px);
 }
+
+.subscription-3aLGnG {
+	background-color: rgba(0,0,0,.3);
+}
+
+.theme-dark .tierPill-1yRO48 {
+	background-color: var(--backgroundDark);
+}
