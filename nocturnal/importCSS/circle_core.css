@@ -824,7 +824,7 @@ div[data-contents="true"] {
 	background-image: linear-gradient(to bottom,var(--primaryGradient1),var(--primaryGradient2))!important
 }
 
-.circleIconButton-jET_ig {
+.circleIconButton-jET_ig,.circleIconButton-1QV--U {
 	background-color: rgba(0,0,0,.25)!important;
 	border-radius: 50px;
 }
@@ -2096,7 +2096,7 @@ svg[name=Nitro] g path {
 	border-radius: 15px;
 }
 
-.expandedFolderBackground-2sPsd- {
+.expandedFolderBackground-2sPsd-,.expandedFolderBackground-1cujaW {
 	background-color: rgba(0,0,0,.35)!important;
 	border-radius: 50px;
 }
@@ -2483,8 +2483,9 @@ svg[name=Nitro] g path {
 	background-color: var(--backgroundDarker);
 }
 
-.folderIconWrapper-226oVY {
+.folderIconWrapper-226oVY,.folderIconWrapper-1_bOZe {
 	background-color: rgba(0,0,0,0)!important;
+	border-radius: 50px;
 }
 
 .customScroller-26gWhv>div,.sidebarScrollable-1qPI87+.content-1rPSz4 {
@@ -2522,9 +2523,13 @@ svg[name=Nitro] g path {
 	background-color: rgba(0,0,0,0);
 }
 
-.folder-21wGz3 {
+.folder-21wGz3,.folder-1hbNCn {
 	background-color: rgb(10,12,16)!important;
 	border-radius: 50px;
+}
+
+.svg-1X37T1 foreignObject {
+	mask: none;
 }
 
 .premiumPromo-fVlLu- {
@@ -2577,7 +2582,7 @@ svg[name=Nitro] g path {
 	background-color: rgba(0,0,0,0);
 }
 
-.iconBadge-2wi9r4, .lowerBadge-29hYVK {
+.iconBadge-2wi9r4, .lowerBadge-29hYVK,.iconBadge-3qSJIw.participating-1NvRVd {
 	margin: 36px -4px;
 }
 
@@ -3701,6 +3706,6 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 	background-color: rgba(0,0,0,.3);
 }
 
-.theme-dark .tierPill-1yRO48 {
+.theme-dark .tierPill-1yRO48,.scroller-1Bvpku {
 	background-color: var(--backgroundDark);
 }
