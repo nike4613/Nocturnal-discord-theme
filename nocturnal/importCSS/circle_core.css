@@ -3709,24 +3709,3 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 .theme-dark .tierPill-1yRO48,.scroller-1Bvpku {
 	background-color: var(--backgroundDark);
 }
-
-.lookFilled-1Gx00P.colorWhite-rEQuAQ {
-	color: #fff;
-	border: 1.5px solid #fff;
-	border-radius: 6px;
-	background-color: rgba(0,0,0,0);
-}
-
-.lookFilled-1Gx00P.colorWhite-rEQuAQ {
-	backdrop-filter: blur(3px);
-    transition: all	 .17s ease;
-}
-
-.lookFilled-1Gx00P.colorWhite-rEQuAQ:hover {
-	background-color: rgba(0,0,0,0);
-}
-
-.lookFilled-1Gx00P.colorWhite-rEQuAQ:hover {
-	backdrop-filter: blur(10px);
-    transition: all .17s ease;
-}
