@@ -2463,11 +2463,11 @@ svg[name=Nitro] g path {
 	border-radius: 0;
 }
 
-.styleFixed-sX-yHV,.emojiPickerInExpressionPicker-3IzIcv .emojiPicker-3PwZFl,.emojiPicker-3PwZFl,.contentWrapper-SvZHNd,.theme-dark .iconWrapper-3LVgIo,.perksList-1vtwXn,.upsellFooter-6EgwMe,.contentWrapper-2txmjs,.categoryWrapper-UZ5YNj,.theme-dark .phoneField-38N1bJ,.theme-dark .phoneField-38N1bJ .inputField-aNPXsv,.css-1wqqa50-container, .styleFlexible-wGDiIL, .submenu-2-ysNh {
+.theme-dark .wrapper-1-Fsb8,.styleFixed-sX-yHV,.emojiPickerInExpressionPicker-3IzIcv .emojiPicker-3PwZFl,.emojiPicker-3PwZFl,.contentWrapper-SvZHNd,.theme-dark .iconWrapper-3LVgIo,.perksList-1vtwXn,.upsellFooter-6EgwMe,.contentWrapper-2txmjs,.categoryWrapper-UZ5YNj,.theme-dark .phoneField-38N1bJ,.theme-dark .phoneField-38N1bJ .inputField-aNPXsv,.css-1wqqa50-container, .styleFlexible-wGDiIL, .submenu-2-ysNh {
 	background-color: var(--backgroundDark);
 }
 
-.navButtonActive-3RPAJy,.theme-dark .wrapper-1-Fsb8,.navButtonActive-1MkytQ {
+.navButtonActive-3RPAJy,.navButtonActive-1MkytQ {
 	background-color: rgba(0,0,0,0);
 }
 
@@ -3721,4 +3721,19 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 
 .theme-dark .tierPill-1yRO48,.scroller-1Bvpku {
 	background-color: var(--backgroundDark);
+}
+
+.lookFilled-1Gx00P.colorWhite-rEQuAQ {
+	color: #fff;
+	border-width: 1px 0;
+	border-style: solid;
+	border-color: #c4c9ce;
+	background-color: rgba(0,0,0,0);
+}
+
+.lookFilled-1Gx00P.colorWhite-rEQuAQ:hover {
+	border-width: 1px 0;
+	border-style: solid;
+	border-color: #fff;
+	background-color: rgba(0,0,0,0);
 }
