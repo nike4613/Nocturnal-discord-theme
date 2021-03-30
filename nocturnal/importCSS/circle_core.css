@@ -3709,3 +3709,7 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 .theme-dark .tierPill-1yRO48,.scroller-1Bvpku {
 	background-color: var(--backgroundDark);
 }
+
+.search-1iTphC .searchBox-2_mAlO .searchBoxInput-K6mkng {
+	color: #4f5660;
+}
