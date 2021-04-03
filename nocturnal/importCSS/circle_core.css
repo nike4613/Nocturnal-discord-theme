@@ -351,100 +351,35 @@
   .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item, .side-8zPYf6 .item-PXvHYJ {padding-left: 40px;}
   div[aria-label="GUILD_SETTINGS"] .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item,
   div[aria-label="GUILD_SETTINGS"] .side-8zPYf6 .item-PXvHYJ {padding-left: 10px;}
-  
-  .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(3)::before{background:url(https://codedotspectra.github.io/themes/icons/core.png) center}
-  .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(4)::before{background:url(https://codedotspectra.github.io/themes/icons/bandages.png) center}
-  .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(5)::before{background:url(https://codedotspectra.github.io/themes/icons/emote.png) center}
-  .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(6)::before{background:url(https://codedotspectra.github.io/themes/icons/css.png) center}
-  .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(7)::before{background:url(https://codedotspectra.github.io/themes/icons/plugins.png) center}
-  .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(8)::before{background:url(https://codedotspectra.github.io/themes/icons/theme.png) center}
-  /*==  WINDOWS  ==*/
-  .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(2)::before{background:url(https://codedotspectra.github.io/themes/icons/account.png) center}
-  .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(3)::before{background:url(https://codedotspectra.github.io/themes/icons/privacy.png) center}
-  .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(4)::before{background:url(https://codedotspectra.github.io/themes/icons/apps.png) center}
-  .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(5)::before{background:url(https://codedotspectra.github.io/themes/icons/connections.png) center}
-  .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(8)::before{background:url(https://codedotspectra.github.io/themes/icons/nitro.png) center}
-  .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(9)::before{background:url(https://codedotspectra.github.io/themes/icons/boost.png) center}
-  .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(10)::before{background:url(https://codedotspectra.github.io/themes/icons/gift.png) center}
-  .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(11)::before{background:url(https://codedotspectra.github.io/themes/icons/billing.png) center}
-  .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(16)::before{background:url(https://codedotspectra.github.io/themes/icons/voice.png) center}
-  .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(17)::before{background:url(https://codedotspectra.github.io/themes/icons/text.png) center}
-  .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(14)::before{background:url(https://codedotspectra.github.io/themes/icons/eye.png) center}
-  .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(15)::before{background:url(https://codedotspectra.github.io/themes/icons/bandages.png) center}
-  .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(18)::before{background:url(https://codedotspectra.github.io/themes/icons/notifications.png) center}
-  .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(19)::before{background:url(https://codedotspectra.github.io/themes/icons/keybinds.png) center}
-  .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(20)::before{background:url(https://codedotspectra.github.io/themes/icons/language.png) center}
-  .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(21)::before{background:url(https://codedotspectra.github.io/themes/icons/windows.png) center}
-  .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(22)::before{background:url(https://codedotspectra.github.io/themes/icons/twitch.png) center}
-  .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(23)::before{background:url(https://codedotspectra.github.io/themes/icons/dev_options.png) center}
-  .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(26)::before{background:url(https://codedotspectra.github.io/themes/icons/games.png) center}
-  .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(27)::before{background:url(https://codedotspectra.github.io/themes/icons/overlay.png) center}
-  .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(29)::before{background:url(https://codedotspectra.github.io/themes/icons/changelog.png) center}
-  .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(30)::before{background:url(https://codedotspectra.github.io/themes/icons/hype.png) center}
-  .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(33)::before{background:url(https://codedotspectra.github.io/themes/icons/logout.png) center}
-  /*==  MAC OS  ==*/
-  .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(2)::before{background:url(https://codedotspectra.github.io/themes/icons/account.png) center}
-  .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(3)::before{background:url(https://codedotspectra.github.io/themes/icons/privacy.png) center}
-  .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(4)::before{background:url(https://codedotspectra.github.io/themes/icons/apps.png) center}
-  .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(5)::before{background:url(https://codedotspectra.github.io/themes/icons/connections.png) center}
-  .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(8)::before{background:url(https://codedotspectra.github.io/themes/icons/nitro.png) center}
-  .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(9)::before{background:url(https://codedotspectra.github.io/themes/icons/boost.png) center}
-  .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(10)::before{background:url(https://codedotspectra.github.io/themes/icons/gift.png) center}
-  .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(11)::before{background:url(https://codedotspectra.github.io/themes/icons/billing.png) center}
-  .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(16)::before{background:url(https://codedotspectra.github.io/themes/icons/voice.png) center}
-  .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(17)::before{background:url(https://codedotspectra.github.io/themes/icons/text.png) center}
-  .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(14)::before{background:url(https://codedotspectra.github.io/themes/icons/eye.png) center}
-  .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(15)::before{background:url(https://codedotspectra.github.io/themes/icons/bandages.png) center}
-  .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(18)::before{background:url(https://codedotspectra.github.io/themes/icons/notifications.png) center}
-  .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(19)::before{background:url(https://codedotspectra.github.io/themes/icons/keybinds.png) center}
-  .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(20)::before{background:url(https://codedotspectra.github.io/themes/icons/language.png) center}
-  .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(21)::before{background:url(https://codedotspectra.github.io/themes/icons/twitch.png) center}
-  .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(22)::before{background:url(https://codedotspectra.github.io/themes/icons/dev_options.png) center}
-  .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(25)::before{background:url(https://codedotspectra.github.io/themes/icons/games.png) center}
-  .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(27)::before{background:url(https://codedotspectra.github.io/themes/icons/changelog.png) center}
-  .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(28)::before{background:url(https://codedotspectra.github.io/themes/icons/hype.png) center}
-  .platform-osx #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(31)::before{background:url(https://codedotspectra.github.io/themes/icons/logout.png) center}
-  /*==  LINUX  ==*/
-  .platform-linux #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(2)::before{background:url(https://codedotspectra.github.io/themes/icons/account.png) center}
-  .platform-linux #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(3)::before{background:url(https://codedotspectra.github.io/themes/icons/privacy.png) center}
-  .platform-linux #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(4)::before{background:url(https://codedotspectra.github.io/themes/icons/apps.png) center}
-  .platform-linux #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(5)::before{background:url(https://codedotspectra.github.io/themes/icons/connections.png) center}
-  .platform-linux #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(8)::before{background:url(https://codedotspectra.github.io/themes/icons/nitro.png) center}
-  .platform-linux #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(9)::before{background:url(https://codedotspectra.github.io/themes/icons/boost.png) center}
-  .platform-linux #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(10)::before{background:url(https://codedotspectra.github.io/themes/icons/gift.png) center}
-  .platform-linux #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(11)::before{background:url(https://codedotspectra.github.io/themes/icons/billing.png) center}
-  .platform-linux #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(16)::before{background:url(https://codedotspectra.github.io/themes/icons/voice.png) center}
-  .platform-linux #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(17)::before{background:url(https://codedotspectra.github.io/themes/icons/text.png) center}
-  .platform-linux #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(14)::before{background:url(https://codedotspectra.github.io/themes/icons/eye.png) center}
-  .platform-linux #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(17)::before{background:url(https://codedotspectra.github.io/themes/icons/notifications.png) center}
-  .platform-linux #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(18)::before{background:url(https://codedotspectra.github.io/themes/icons/keybinds.png) center}
-  .platform-linux #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(19)::before{background:url(https://codedotspectra.github.io/themes/icons/language.png) center}
-  .platform-linux #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(20)::before{background:url(https://codedotspectra.github.io/themes/icons/linux.png) center}
-  .platform-linux #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(21)::before{background:url(https://codedotspectra.github.io/themes/icons/twitch.png) center}
-  .platform-linux #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(24)::before{background:url(https://codedotspectra.github.io/themes/icons/games.png) center}
-  .platform-linux #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(27)::before{background:url(https://codedotspectra.github.io/themes/icons/changelog.png) center}
-  .platform-linux #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(28)::before{background:url(https://codedotspectra.github.io/themes/icons/hype.png) center}
-  .platform-linux #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(31)::before{background:url(https://codedotspectra.github.io/themes/icons/logout.png) center}
-  /*==  WEB  ==*/
-  .platform-web #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(2)::before{background:url(https://codedotspectra.github.io/themes/icons/account.png) center}
-  .platform-web #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(3)::before{background:url(https://codedotspectra.github.io/themes/icons/privacy.png) center}
-  .platform-web #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(4)::before{background:url(https://codedotspectra.github.io/themes/icons/apps.png) center}
-  .platform-web #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(5)::before{background:url(https://codedotspectra.github.io/themes/icons/connections.png) center}
-  .platform-web #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(8)::before{background:url(https://codedotspectra.github.io/themes/icons/nitro.png) center}
-  .platform-web #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(9)::before{background:url(https://codedotspectra.github.io/themes/icons/boost.png) center}
-  .platform-web #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(10)::before{background:url(https://codedotspectra.github.io/themes/icons/gift.png) center}
-  .platform-web #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(11)::before{background:url(https://codedotspectra.github.io/themes/icons/billing.png) center}
-  .platform-web #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(14)::before{background:url(https://codedotspectra.github.io/themes/icons/voice.png) center}
-  .platform-web #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(15)::before{background:url(https://codedotspectra.github.io/themes/icons/text.png) center}
-  .platform-web #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(16)::before{background:url(https://codedotspectra.github.io/themes/icons/eye.png) center}
-  .platform-web #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(17)::before{background:url(https://codedotspectra.github.io/themes/icons/notifications.png) center}
-  .platform-web #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(18)::before{background:url(https://codedotspectra.github.io/themes/icons/keybinds.png) center}
-  .platform-web #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(19)::before{background:url(https://codedotspectra.github.io/themes/icons/language.png) center}
-  .platform-web #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(20)::before{background:url(https://codedotspectra.github.io/themes/icons/twitch.png) center}
-  .platform-web #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(23)::before{background:url(https://codedotspectra.github.io/themes/icons/games.png) center}
-  .platform-web #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(25)::before{background:url(https://codedotspectra.github.io/themes/icons/changelog.png) center}
-  .platform-web #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(26)::before{background:url(https://codedotspectra.github.io/themes/icons/hype.png) center}
-  .platform-web #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(29)::before{background:url(https://codedotspectra.github.io/themes/icons/logout.png) center}
+  div[aria-label="USER_SETTINGS"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .side-8zPYf6 .item-PXvHYJ:nth-child(2)::before{background:url(https://codedotspectra.github.io/themes/icons/account.png) center}
+  div[aria-label="USER_SETTINGS"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .side-8zPYf6 .item-PXvHYJ:nth-child(3)::before{background:url(https://codedotspectra.github.io/themes/icons/privacy.png) center}
+  div[aria-label="USER_SETTINGS"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .side-8zPYf6 .item-PXvHYJ:nth-child(4)::before{background:url(https://codedotspectra.github.io/themes/icons/apps.png) center}
+  div[aria-label="USER_SETTINGS"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .side-8zPYf6 .item-PXvHYJ:nth-child(5)::before{background:url(https://codedotspectra.github.io/themes/icons/connections.png) center}
+  div[aria-label="USER_SETTINGS"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .side-8zPYf6 .item-PXvHYJ:nth-child(8)::before{background:url(https://codedotspectra.github.io/themes/icons/nitro.png) center}
+  div[aria-label="USER_SETTINGS"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .side-8zPYf6 .item-PXvHYJ:nth-child(9)::before{background:url(https://codedotspectra.github.io/themes/icons/boost.png) center}
+  div[aria-label="USER_SETTINGS"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .side-8zPYf6 .item-PXvHYJ:nth-child(10)::before{background:url(https://codedotspectra.github.io/themes/icons/gift.png) center}
+  div[aria-label="USER_SETTINGS"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .side-8zPYf6 .item-PXvHYJ:nth-child(11)::before{background:url(https://codedotspectra.github.io/themes/icons/billing.png) center}
+  div[aria-label="USER_SETTINGS"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .side-8zPYf6 .item-PXvHYJ:nth-child(14)::before{background:url(https://codedotspectra.github.io/themes/icons/eye.png) center}
+  div[aria-label="USER_SETTINGS"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .side-8zPYf6 .item-PXvHYJ:nth-child(15)::before{background:url(https://codedotspectra.github.io/themes/icons/bandages.png) center}
+  div[aria-label="USER_SETTINGS"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .side-8zPYf6 .item-PXvHYJ:nth-child(16)::before{background:url(https://codedotspectra.github.io/themes/icons/voice.png) center}
+  div[aria-label="USER_SETTINGS"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .side-8zPYf6 .item-PXvHYJ:nth-child(17)::before{background:url(https://codedotspectra.github.io/themes/icons/text.png) center}
+  div[aria-label="USER_SETTINGS"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .side-8zPYf6 .item-PXvHYJ:nth-child(18)::before{background:url(https://codedotspectra.github.io/themes/icons/notifications.png) center}
+  div[aria-label="USER_SETTINGS"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .side-8zPYf6 .item-PXvHYJ:nth-child(19)::before{background:url(https://codedotspectra.github.io/themes/icons/keybinds.png) center}
+  div[aria-label="USER_SETTINGS"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .side-8zPYf6 .item-PXvHYJ:nth-child(20)::before{background:url(https://codedotspectra.github.io/themes/icons/language.png) center}
+  div[aria-label="USER_SETTINGS"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .side-8zPYf6 .item-PXvHYJ:nth-child(21)::before{background:url(https://codedotspectra.github.io/themes/icons/windows.png) center}
+  div[aria-label="USER_SETTINGS"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .side-8zPYf6 .item-PXvHYJ:nth-child(22)::before{background:url(https://codedotspectra.github.io/themes/icons/twitch.png) center}
+  div[aria-label="USER_SETTINGS"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .side-8zPYf6 .item-PXvHYJ:nth-child(23)::before{background:url(https://codedotspectra.github.io/themes/icons/dev_options.png) center}
+  div[aria-label="USER_SETTINGS"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .side-8zPYf6 .item-PXvHYJ:nth-child(26)::before{background:url(https://codedotspectra.github.io/themes/icons/games.png) center}
+  div[aria-label="USER_SETTINGS"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .side-8zPYf6 .item-PXvHYJ:nth-child(27)::before{background:url(https://codedotspectra.github.io/themes/icons/overlay.png) center}
+  div[aria-label="USER_SETTINGS"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .side-8zPYf6 .item-PXvHYJ:nth-child(29)::before{background:url(https://codedotspectra.github.io/themes/icons/core.png) center}
+  div[aria-label="USER_SETTINGS"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .side-8zPYf6 .item-PXvHYJ:nth-child(30)::before{background:url(https://codedotspectra.github.io/themes/icons/bandages.png) center}
+  div[aria-label="USER_SETTINGS"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .side-8zPYf6 .item-PXvHYJ:nth-child(31)::before{background:url(https://codedotspectra.github.io/themes/icons/emote.png) center}
+  div[aria-label="USER_SETTINGS"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .side-8zPYf6 .item-PXvHYJ:nth-child(32)::before{background:url(https://codedotspectra.github.io/themes/icons/css.png) center}
+  div[aria-label="USER_SETTINGS"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .side-8zPYf6 .item-PXvHYJ:nth-child(33)::before{background:url(https://codedotspectra.github.io/themes/icons/plugins.png) center}
+  div[aria-label="USER_SETTINGS"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .side-8zPYf6 .item-PXvHYJ:nth-child(34)::before{background:url(https://codedotspectra.github.io/themes/icons/theme.png) center}
+  div[aria-label="USER_SETTINGS"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .side-8zPYf6 .item-PXvHYJ:nth-child(36)::before{background:url(https://codedotspectra.github.io/themes/icons/changelog.png) center}
+  div[aria-label="USER_SETTINGS"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .side-8zPYf6 .item-PXvHYJ:nth-child(37)::before{background:url(https://codedotspectra.github.io/themes/icons/hype.png) center}
+  div[aria-label="USER_SETTINGS"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .side-8zPYf6 .item-PXvHYJ:nth-child(39)::before{background:url(https://codedotspectra.github.io/themes/icons/logout.png) center}
 
 :root {
 	--backgroundDark: rgb(24, 28, 37);
@@ -3716,4 +3651,23 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 
 .search-1iTphC .searchBox-2_mAlO .searchBoxInput-K6mkng {
 	color: #4f5660;
+}
+
+.lookFilled-1Gx00P.colorWhite-rEQuAQ {
+	color: #fff;
+	border-width: 1px 0;
+	border-style: solid;
+	border-color: #c4c9ce;
+	background-color: rgba(0,0,0,0);
+}
+
+.lookFilled-1Gx00P.colorWhite-rEQuAQ:hover {
+	border-width: 1px 0;
+	border-style: solid;
+	border-color: #fff;
+	background-color: rgba(0,0,0,0);
+}
+
+.wrapper-39oAo3 {
+	margin-bottom: 0px;
 }
